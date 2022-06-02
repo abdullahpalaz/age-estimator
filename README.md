@@ -1,4 +1,4 @@
-## Age Estimator
+# Age Estimator
 
 This assignment is done for Introduction to Machine Learning class.
 
